@@ -3,6 +3,11 @@ h1{
     text-align: center;
 }
 
+h2{
+    color: black;
+    margin-left: 800px;
+}
+
 p{
     margin-left: 100px;
     text-align: left;

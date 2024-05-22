@@ -9,5 +9,6 @@ p{
 }
 
 li{
-    text-align: center;
+    text-align: left;
+    margin-left: 100px;
 }

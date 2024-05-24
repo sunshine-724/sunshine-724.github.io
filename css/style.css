@@ -5,17 +5,17 @@ h1{
 
 h2{
     color: black;
-    margin-left: 800px;
+    margin-left: 37%;
+    margin-bottom:0%;
 }
 
 p{
-    margin-left: 800px;
-    text-align: left;
+    text-align: center;
 }
 
 li{
     text-align: left;
-    margin-left: 500px;
+    margin-left: 37%;
 }
 
 a{
@@ -24,4 +24,5 @@ a{
 
 .center{
     text-align: center;
+    margin:auto;
 }
